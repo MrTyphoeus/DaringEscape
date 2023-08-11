@@ -16,6 +16,7 @@ In-Game Controls:
 Map: The map displays the current state of the game. Empty spaces (" "), mines ("x"), and bonuses ("*") are represented differently on the map.
 Move Number: Shows the total number of moves you've made throughout the game.
 Score: Displays the score you've earned based on the character's moves.
+Character: ♦.
 Mines ("x"):
 Pay attention to the randomly placed mines on the map! Stepping on a mine will deduct 5 points from your score.
 

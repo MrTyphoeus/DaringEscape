@@ -16,6 +16,7 @@ Oyun İçi Kontroller:
 Harita: Harita, oyununun mevcut durumunu gösterir. Boş alanlar ( ), mayınlar ( x ) ve bonuslar ( * ) haritada farklı şekillerde temsil edilir.
 Hamle Sayısı: Oyun boyunca yaptığınız toplam hamle sayısını gösterir.
 Puan: Karakterin yaptığı hamleler sonucu elde ettiğiniz puanı gösterir.
+Karakteriniz: ♦.
 Mayınlar ( x ):
 Haritada rastgele yerleştirilmiş olan mayınlara dikkat edin! Mayına basmak, puanınızdan 5 puan düşmesine neden olur.
 
