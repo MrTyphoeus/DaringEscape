@@ -1,0 +1,34 @@
+DARING ESCAPE Oyun Kullanım Kılavuzu
+
+Hoş Geldiniz! "DARING ESCAPE" adlı bu basit ama eğlenceli oyunu oynamak için aşağıdaki kılavuzu takip edebilirsiniz.
+
+Oyun Amacı:
+Oyunun amacı, karakteri yönlendirerek labirent benzeri haritada ilerleyerek sona ulaşmaktır. Haritada bulunan mayınları ve bonusları göz önünde bulundurarak mümkün olduğunca düşük adımla ve yüksek bir puanla oyunu tamamlamak hedeflenir.
+
+Tuş Kontrolleri:
+
+W : Karakteri yukarı hareket ettirir.
+S : Karakteri aşağı hareket ettirir.
+A : Karakteri sola hareket ettirir.
+D : Karakteri sağa hareket ettirir.
+Oyun İçi Kontroller:
+
+Harita: Harita, oyununun mevcut durumunu gösterir. Boş alanlar ( ), mayınlar ( x ) ve bonuslar ( * ) haritada farklı şekillerde temsil edilir.
+Hamle Sayısı: Oyun boyunca yaptığınız toplam hamle sayısını gösterir.
+Puan: Karakterin yaptığı hamleler sonucu elde ettiğiniz puanı gösterir.
+Mayınlar ( x ):
+Haritada rastgele yerleştirilmiş olan mayınlara dikkat edin! Mayına basmak, puanınızdan 5 puan düşmesine neden olur.
+
+Bonuslar ( * ):
+Haritada bonuslar da bulunmaktadır. Bir bonusa ulaştığınızda, puanınıza 5 puan eklenir. Bu nedenle bonusları toplamayı unutmayın!
+
+Oyun Sonu:
+Haritayı başarıyla tamamladığınızda, hamle sayınızı ve elde ettiğiniz puanı göreceksiniz. Aynı zamanda iki oyuncu arasında puanları da karşılaştırabilirsiniz.
+
+Oyun Menüsü:
+Oyunu farklı haritalarda oynamak veya aynı haritada devam etmek isteyebilirsiniz. Oyun sonunda sunulan menüden seçiminizi yapabilirsiniz:
+
+1: Farklı bir haritada oyuna devam etmek için.
+2: Aynı haritada oyuna devam etmek için.
+3: Oyundan çıkmak için.
+Keyifli oyunlar dilerim.
