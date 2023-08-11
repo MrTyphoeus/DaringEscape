@@ -1,0 +1,14 @@
+Merhaba Arkadaşlar,
+
+Sizlerle heyecan verici bir haberimi paylaşmak istiyorum! Uzun çabaların ve çalışmaların sonucunda, C dilinde yazdığım ilk konsol oyununu tamamladım ve gururla sunuyorum. 🎮
+
+Bu oyun, kodlama becerilerimi geliştirmek için atılmış önemli bir adım oldu ve her adımında büyük bir öğrenme süreci yaşadım. Oyunun içinde yer alan her bir satır, özveri ve sabırla yazıldı ve sonuçtan gerçekten memnun kaldım.
+
+Oyunumuz oldukça basit: "Daring Escape". Ama bu basitlik, kodlamayı ve mantığı anlama yolculuğumun sadece bir başlangıcı.
+
+Sizlerle bu deneyimimi paylaşmaktan dolayı büyük bir mutluluk duyuyorum.
+
+Kodlama tutkusuyla dolu günler dilerim 👨‍💻
+
+#CProgramlama #OyunGeliştirme #Kodlama #ProgramlamaDünyası #ÖğrenmeYolculuğu
+

@@ -1,0 +1,13 @@
+Hello Everyone,
+
+I am excited to share some great news about me with you all! I have completed my first console game written in C language, and I am proudly presenting it to you. 🎮
+
+This game marks an important milestone in my coding journey, with every step being a significant learning experience. Every line of code within the game was written with dedication and patience, and I am truly pleased with the outcome.
+
+The game itself is quite simple: "Daring Escape". But this simplicity is just the beginning of my quest to enhance my coding skills and understanding of logic.
+
+Sharing this experience with all of you brings me immense joy.
+
+Wishing you days filled with the passion for coding 👨‍💻
+
+#CProgramming #GameDevelopment #Coding #ProgrammingWorld #LearningJourney
