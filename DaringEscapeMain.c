@@ -78,7 +78,7 @@ void print_Map(char map[MAP_ROWS][MAP_COLS]) {										//Function for printing 
 }
 
 void print_Start() {                                       //Start message
-	printf("\n\n\t\tWelcome to the Daring Escape!!\n\n\n\t\tThe purpose of the game is reaching to the end by going through less % c and move number.\n\n\t\tFor bonus go through % c \n\n\n\n", MINE, BONUS);
+	printf("\n\n\t\tWelcome to the Daring Escape!!\n\n\n\t\tThe purpose of the game is reaching to the end by going through less % c and move number.\n\n\t\tFor bonus go through % c \n\n\t\tCharacter: % c\n\n\n", MINE, BONUS,CHARACTER);
 	system("pause");
 }
 
